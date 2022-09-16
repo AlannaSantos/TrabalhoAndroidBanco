@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="act_add">Adicionar</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="pages">Pages</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">Ok</string>
+    <string name="act_informacao">Informações</string>
+
+    <string name="autor">Autor: Alana Castro</string>
+    <string name="versao">V.0.1</string>
+    <string name="texto">
+        Todo amante de livro sabe como é difícil manter uma estante organizada.
+        Manter um controle sobre quais livros lemos é difícil. Por isso
+        este App Cria uma lista simples de livros.</string>
+    <string name="nomeApp">Nome App: List Book</string>
+</resources>
